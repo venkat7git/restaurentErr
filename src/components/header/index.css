@@ -1,0 +1,21 @@
+.head-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+}
+.cart-container {
+  display: flex;
+}
+.cart-count {
+  background-color: #ed115e;
+  color: #ffffff;
+  align-self: flex-start;
+  width: 16px;
+  height: 18px;
+  text-align: center;
+  border-radius: 40px;
+}
+.header-heading{
+  font-size: 25px;
+}

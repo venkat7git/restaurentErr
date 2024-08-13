@@ -1,0 +1,21 @@
+.category-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  padding-left: 40px;
+  list-style-type: none;
+}
+.list-item {
+  margin-right: 20px;
+}
+
+.item-para {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.dishes-container{
+  padding: 0px;
+  list-style-type: none;
+}
